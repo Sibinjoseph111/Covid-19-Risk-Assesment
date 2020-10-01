@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Covid 19-Risk Assesment</string>
+    <string name="take_test_string">Take the test and find your COVID-19 exposure risk.</string>
+    <string name="start_test">Start Test</string>
+    <string name="question">Question :</string>
+    <string name="shared_preference_id">com.app.covid19_riskassesment</string>
+    <string name="family_risk_level">Family Risk Level</string>
+    <string name="individual_risk_level">Individual Risk Level</string>
+    <string name="high_risk">High Risk</string>
+    <string name="very_high_risk">Very High Risk</string>
+    <string name="moderate_risk">Moderate Risk</string>
+    <string name="low_risk">Low Risk</string>
+    <string name="safe">Safe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
